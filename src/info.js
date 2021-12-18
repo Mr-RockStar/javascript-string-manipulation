@@ -2,7 +2,7 @@ const usage = "Usage: crlf-convert [CR|LF|CRLF]";
 
 const help = String.raw`Usage: crlf-convert [CR|LF|CRLF]
 
-Converts text between newline (\\n), carriage return (\\r), and combined
+Converts text between newline (\n), carriage return (\r), and combined
 (\r\n) line endings.
 
 Options:
