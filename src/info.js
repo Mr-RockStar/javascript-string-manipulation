@@ -1,6 +1,6 @@
-let usage = "Usage: crlf-convert [CR|LF|CRLF]";
+const usage = "Usage: crlf-convert [CR|LF|CRLF]";
 
-let help = "Usage: crlf-convert [CR|LF|CRLF]\n\n"
+const help = "Usage: crlf-convert [CR|LF|CRLF]\n\n"
          + "Converts text between newline (\\n), carriage return (\\r), and combined\n"
          + "(\\r\\n) line endings.\n\n"
          + "Options:\n\n"
